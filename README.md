@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Mini Library 🤍</h1>
 </div align="center">
-<img src="./images/miniLibrary.gif" alt="Mini Library Demo" style="display: block; margin: 0 auto;">
+<img src="https://res.cloudinary.com/dlddsebry/image/upload/v1693403453/Cristina_2_lh8hz2.png" alt="Mini Library Demo" style="display: block; margin: 0 auto;">
 <br>
 
 ## Structure 🤍
