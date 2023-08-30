@@ -1,1 +1,32 @@
-# MiniLibrary
+<div align="center">
+<h1 align="center">Mini Library 🤍</h1>
+</div>
+<img src="./images/miniLibrary.gif">
+<br>
+
+## Structure 🤍
+
+```
+minilibrary/
+│
+├── index.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+```
+
+## About the Project 🤍
+
+- Small Book Organizer.
+- Add the books you are reading.
+- Delete the ones you have already read.
+- List all books.
+
+
+## Support Me 🤍
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge&logo=ko-fi&logoColor=white&color=ff69b4)](https://ko-fi.com/cristinamateos11)
