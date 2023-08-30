@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Mini Library 🤍</h1>
-</div>
+</div align="center">
 <img src="./images/miniLibrary.gif">
 <br>
 
