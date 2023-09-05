@@ -25,10 +25,10 @@ minilibrary/
 
 ## About the Project 🤍
 
-- Small Book Organizer.
-- Add the books you are reading.
-- Delete the ones you have already read.
-- List all books.
+- 📖 Small Book Organizer.
+- 📚 Add the books you are reading.
+- 🗑 Delete the ones you have already read.
+- 🧾 List all books.
 
 ## Website 🤍
 
