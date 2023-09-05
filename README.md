@@ -17,6 +17,9 @@ minilibrary/
 ├── js/
 │   └── script.js
 │
+|── sounds/
+│   └── song.mp3
+|
 └── images/
 ```
 
